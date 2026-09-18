@@ -12,7 +12,7 @@ BOT_TOKEN = "****************"
 GITHUB_TOKEN = "***************"
 REPO_OWNER = "kk3378076-lab"
 REPO_NAME = "KyawKyaw222_bot"
-REPO_N
+
 ADMIN_ID = "8181084923"
 
 # ── Global structures ─────────────────────────────────────────────────────
