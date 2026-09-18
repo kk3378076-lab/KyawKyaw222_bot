@@ -9,7 +9,7 @@ from datetime import datetime, timedelta, timezone
 #ဒီနေရာမှာchangeပေးပါbro
 BOT_TOKEN = '**************'
 GITHUB_TOKEN = '**************'
-ADMIN_ID = "8287939697"
+ADMIN_ID = "8181084923"
 REPO_OWNER = "Soejyi"
 REPO_NAME = "Soe-Jyi-"
 ##################
